@@ -1,0 +1,12 @@
+p{
+    margin-top: 15px;
+    background: blue;
+    color: white;
+    padding: 10px 10px;
+}
+
+span{
+    background: yellowgreen;
+    color: white;
+    padding: 2px 2px;
+}
